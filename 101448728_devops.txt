@@ -1,0 +1,2 @@
+Join us on a journey of discovery with COMP 2156 - DevOps course at George Brown College. 
+This course introduces students to the principles and practices of DevOps, including agile methodologies, infrastructure as code, and automated testing. Through hands-on projects and real-world scenarios, students will learn how to leverage DevOps tools and techniques to improve software development processes and accelerate time-to-market. Whether you're new to DevOps or looking to expand your skills, COMP 2156 offers a comprehensive learning experience for students of all levels.
